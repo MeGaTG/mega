@@ -30,7 +30,9 @@ Those commands require a privileged user, privileged users are defined inside `d
 
 
 
-Contact me
+#Admins
 ------------
-[ThisisAmirh](https://telegram.me/Thisisamirh)
-[shayan](https://telegram.me/uadminu)
+#[ThisisAmirh](https://telegram.me/Thisisamirh)
+----------------------------------------------
+#[shayan](https://telegram.me/uadminu)
+---------------------------------------------
