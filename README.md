@@ -1,6 +1,7 @@
 MegaZs
 ------------
-
+[![https://gitter.im/Shatelteam/shatelteam](https://badges.gitter.im/shatelteam/shatelteam.svg)](https://gitter.im/shatelteam/shatelteam?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+---------------------------
 Installation
 ------------
 ```bash
